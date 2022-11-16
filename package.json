@@ -1,0 +1,23 @@
+{
+  "name": "abutils",
+  "version": "0.0.1",
+  "description": "utils for AudioBuffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsotang/abutils.git"
+  },
+  "keywords": [
+    "audiobuffer",
+    "utils"
+  ],
+  "author": "alsotang <alsotang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alsotang/abutils/issues"
+  },
+  "homepage": "https://github.com/alsotang/abutils#readme"
+}
