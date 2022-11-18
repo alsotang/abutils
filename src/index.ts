@@ -3,7 +3,7 @@ const abutils = {
   repeat(ab: AudioBuffer, times: number): AudioBuffer {
   },
   concat(abs: AudioBuffer[]): AudioBuffer { },
-  clone(ab: AudioBuffer): AudioBuffer { }
+  clone(ab: AudioBuffer): AudioBuffer { },
 }
 
 export { abutils };
